@@ -1,0 +1,1 @@
+{"name":"nextjs-ssr-rollback-lab","version":"1.0.0","private":true,"scripts":{"build":"next build","start":"next start -H 0.0.0.0"},"dependencies":{"next":"16.3.4","react":"19.2.7","react-dom":"19.2.7"}}
