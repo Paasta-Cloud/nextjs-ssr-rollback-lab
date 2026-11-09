@@ -1,0 +1,22 @@
+{
+  "observedAt": "2026-11-09T10:16:12.819Z",
+  "createdAt": "2026-11-09T10:10:01.102Z",
+  "plan": "basic",
+  "billing": "payg",
+  "desiredReplicas": 1,
+  "projectWalletEntries": [
+    {
+      "created_at": "2026-11-09T10:10:01.102Z",
+      "amount_toman": "-542"
+    }
+  ],
+  "netDebitedToman": 542,
+  "period": [
+    {
+      "started_at": "2026-11-09T10:10:01.145Z",
+      "paid_until": "2026-11-09T11:10:01.145Z",
+      "hourly_amount_toman": "542"
+    }
+  ],
+  "observedServiceState": "Paused"
+}

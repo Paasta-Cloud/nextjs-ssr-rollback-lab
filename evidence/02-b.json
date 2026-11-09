@@ -1,0 +1,15 @@
+{
+  "url": "https://ssr-proof-1109.neda1.paasta.app/",
+  "observations": [
+    {
+      "release": "B",
+      "request": "335cb30f-f0ba-4144-82da-2412f9072d11",
+      "renderedAt": "2026-11-09T10:15:23.102Z"
+    },
+    {
+      "release": "B",
+      "request": "051b6379-7385-4165-b560-6a86e9bacc77",
+      "renderedAt": "2026-11-09T10:15:23.173Z"
+    }
+  ]
+}
